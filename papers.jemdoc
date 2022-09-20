@@ -1,6 +1,28 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Papers 
 
+=== Preprint
+
+-  [https://arxiv.org/pdf/2208.13223 Structural Adaptivity of Directed Networks]    \n
+   *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Yugeng Xi, Dewei Li.   \n
+   arXiv preprint arXiv:2208.13223. [https://arxiv.org/pdf/2208.13223 Link]
+
+-  [https://arxiv.org/abs/2110.13356 Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation]    \n
+   *Lulu Pan*, Haibin Shao, Yuanlong Li, Dewei Li, Yugeng Xi.  \n
+   arXiv preprint arXiv:2110.13356. [https://arxiv.org/abs/2110.13356 Link]
+
+-  [https://arxiv.org/abs/2109.12555 On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective]    \n
+   Haibin Shao, *Lulu Pan*\*, Dewei Li, Yugeng Xi.  \n   
+   arXiv preprint arXiv:2109.12555. [https://arxiv.org/abs/2109.12555 Link]
+   
+-  [https://arxiv.org/abs/2107.12022 Distributed Neighbor Selection in Multi-agent Networks]    \n
+   Haibin Shao, *Lulu Pan*\*, Mehran Mesbahi, Yugeng Xi, Dewei Li.   \n
+   arXiv preprint arXiv:2107.12022. [https://arxiv.org/abs/2107.12022 Link]
+
+- [https://arxiv.org/abs/2106.06198 Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks]    \n
+   *Lulu Pan*, Haibin Shao, Dewei Li, Yugeng Xi.   \n
+   arXiv preprint arXiv:2106.06198. [https://arxiv.org/abs/2106.06198 Link] 
+
 === Journal
 
  - [https://doi.org/10.1016/j.automatica.2022.110308 Cluster Consensus on Matrix-weighted Switching Networks]  \n
@@ -38,28 +60,6 @@
 -  [https://doi.org/10.1016/j.physa.2018.05.101 Structural Balance of Multiplex Signed Networks: A Distributed Data-driven Approach]     \n
    *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Dewei Li, Yugeng Xi.  \n
    Physica A: Statistical Mechanics and its Applications, 508:748-756, 2018. [https://doi.org/10.1016/j.physa.2018.05.101 Link]
-
-=== Preprint
-
--  [https://arxiv.org/pdf/2208.13223 Structural Adaptivity of Directed Networks]    \n
-   *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Yugeng Xi, Dewei Li.   \n
-   arXiv preprint arXiv:2208.13223. [https://arxiv.org/pdf/2208.13223 Link]
-
--  [https://arxiv.org/abs/2110.13356 Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation]    \n
-   *Lulu Pan*, Haibin Shao, Yuanlong Li, Dewei Li, Yugeng Xi.  \n
-   arXiv preprint arXiv:2110.13356. [https://arxiv.org/abs/2110.13356 Link]
-
--  [https://arxiv.org/abs/2109.12555 On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective]    \n
-   Haibin Shao, *Lulu Pan*\*, Dewei Li, Yugeng Xi.  \n   
-   arXiv preprint arXiv:2109.12555. [https://arxiv.org/abs/2109.12555 Link]
-   
--  [https://arxiv.org/abs/2107.12022 Distributed Neighbor Selection in Multi-agent Networks]    \n
-   Haibin Shao, *Lulu Pan*\*, Mehran Mesbahi, Yugeng Xi, Dewei Li.   \n
-   arXiv preprint arXiv:2107.12022. [https://arxiv.org/abs/2107.12022 Link]
-
-- [https://arxiv.org/abs/2106.06198 Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks]    \n
-   *Lulu Pan*, Haibin Shao, Dewei Li, Yugeng Xi.   \n
-   arXiv preprint arXiv:2106.06198. [https://arxiv.org/abs/2106.06198 Link] 
 
 === Conference
 
