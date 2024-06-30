@@ -11,25 +11,19 @@
    *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Yugeng Xi, Dewei Li.   \n
    arXiv preprint arXiv:2208.13223. [https://arxiv.org/pdf/2208.13223 Link]
 
-
--  [https://arxiv.org/abs/2109.12555 On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective]    \n
-   Haibin Shao, *Lulu Pan*\*, Dewei Li, Yugeng Xi.  \n   
-   arXiv preprint arXiv:2109.12555. [https://arxiv.org/abs/2109.12555 Link]
-   
--  [https://arxiv.org/abs/2107.12022 Distributed Neighbor Selection in Multi-agent Networks]    \n
-   Haibin Shao, *Lulu Pan*\*, Mehran Mesbahi, Yugeng Xi, Dewei Li.   \n
-   arXiv preprint arXiv:2107.12022. [https://arxiv.org/abs/2107.12022 Link]
-
-- [https://arxiv.org/abs/2106.06198 Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks]    \n
-   *Lulu Pan*, Haibin Shao, Dewei Li, Lin Liu.   \n
-   arXiv preprint arXiv:2106.06198. [https://arxiv.org/abs/2106.06198 Link] 
-
 === Journal
 
+-  [https://ieeexplore.ieee.org/abstract/document/10049120/ Distributed Neighbor Selection in Multi-agent Networks]    \n
+   Haibin Shao, *Lulu Pan*\*, Mehran Mesbahi, Yugeng Xi, Dewei Li.   \n
+   IEEE Transactions on Automatic Control, 68(11):6711-6726, 2023. [https://ieeexplore.ieee.org/abstract/document/10049120/ Link]
 
--  [https://arxiv.org/abs/2110.13356 Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation]    \n
+-  [https://ieeexplore.ieee.org/abstract/document/10054460/ Distributed Stabilization of Signed Networks via Self-loop Compensation]    \n
+   Haibin Shao, *Lulu Pan*\*, Dewei Li, Yugeng Xi.  \n
+   IEEE Transactions on Network Science and Engineering, 10(6):3159-3171, 2023. [https://ieeexplore.ieee.org/abstract/document/10054460/ Link]
+
+-  [https://ieeexplore.ieee.org/abstract/document/9919791/ Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation]    \n
    *Lulu Pan*, Haibin Shao, Yuanlong Li, Dewei Li, Yugeng Xi.  \n
-   IEEE Transactions on Network Science and Engineering, 2022. (To Appear) [https://arxiv.org/abs/2110.13356 Link]
+   IEEE Transactions on Network Science and Engineering, 10(1):463-476, 2022.  [https://ieeexplore.ieee.org/abstract/document/9919791/ Link]
 
  - [https://doi.org/10.1016/j.automatica.2022.110308 Cluster Consensus on Matrix-weighted Switching Networks]  \n
    *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Dewei Li, Yugeng Xi.   \n 
@@ -45,11 +39,11 @@
 
 - [https://ieeexplore.ieee.org/document/9366828/ Consensus on Matrix-weighted Switching Networks]  \n  
   *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Yugeng Xi and Dewei Li.    \n
-  IEEE Transactions on Automatic Control, 2021, 66(12):5990-5996. [https://ieeexplore.ieee.org/document/9366828/ Link]
+  IEEE Transactions on Automatic Control, 66(12):5990-5996, 2021. [https://ieeexplore.ieee.org/document/9366828/ Link]
 
 - [https://doi.org/10.1016/j.automatica.2019.03.004 Relative Tempo of Distributed Averaging on Networks]  \n
   Haibin Shao, *Lulu Pan*, Mehran Mesbahi, Yugeng Xi and Dewei Li.    \n
-  Automatica, 2019, 105:159-166. [https://doi.org/10.1016/j.automatica.2019.03.004 Link]
+  Automatica, 105:159-166, 2019. [https://doi.org/10.1016/j.automatica.2019.03.004 Link]
 
 -  [https://ieeexplore.ieee.org/abstract/document/9036925 On the Controllability of Matrix-weighted Networks]    \n
     *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Yugeng Xi, Dewei Li.    \n
